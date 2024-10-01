@@ -20,3 +20,4 @@ public class Books {
         // Output the result
         System.out.println("Books read: " + booksCnt);
     }
+}
